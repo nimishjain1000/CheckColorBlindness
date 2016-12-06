@@ -20,7 +20,7 @@
         android:id="@+id/imageView"/>
 
     <CheckBox
-        android:text="8"
+        android:text="6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="35dp"
@@ -33,7 +33,7 @@
         android:layout_alignParentLeft="true" />
 
     <CheckBox
-        android:text="6"
+        android:text="8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/checkbox1"

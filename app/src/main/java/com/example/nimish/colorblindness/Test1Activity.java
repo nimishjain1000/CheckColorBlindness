@@ -30,17 +30,17 @@ public class Test1Activity extends AppCompatActivity {
 
                 if(ONE.isChecked())
                 {
-                    Toast.makeText(Test1Activity.this, "Red Color Blind", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test1Activity.this, "Normal", Toast.LENGTH_SHORT).show();
 
                 }
                 if(TWO.isChecked())
                 {
-                    Toast.makeText(Test1Activity.this, "Normal", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test1Activity.this, "Red Color blind", Toast.LENGTH_SHORT).show();
 
                 }
                 if(THREE.isChecked())
                 {
-                    Toast.makeText(Test1Activity.this, "Red Color Blind", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test1Activity.this, "Red color blind", Toast.LENGTH_SHORT).show();
                 }
                 if(FOUR.isChecked())
                 {
