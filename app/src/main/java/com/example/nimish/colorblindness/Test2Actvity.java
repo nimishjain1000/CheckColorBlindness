@@ -33,21 +33,21 @@ public class Test2Actvity extends AppCompatActivity {
 
                 if(ONE.isChecked())
                 {
-                    Toast.makeText(Test2Actvity.this, "false", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test2Actvity.this, "Red Green color blindness", Toast.LENGTH_SHORT).show();
 
                 }
                 if(TWO.isChecked())
                 {
-                    Toast.makeText(Test2Actvity.this, "false", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test2Actvity.this, "Red Green color blindness", Toast.LENGTH_SHORT).show();
 
                 }
                 if(THREE.isChecked())
                 {
-                    Toast.makeText(Test2Actvity.this, "true", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test2Actvity.this, "Normal", Toast.LENGTH_SHORT).show();
                 }
                 if(FOUR.isChecked())
                 {
-                    Toast.makeText(Test2Actvity.this, "false", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Test2Actvity.this, "You are fibbling", Toast.LENGTH_SHORT).show();
 
                 }
                 Toast.makeText(Test2Actvity.this, "Now check color of any image", Toast.LENGTH_SHORT).show();

@@ -36,21 +36,21 @@ public class TestActivity extends AppCompatActivity {
 
                 if(ONE.isChecked())
                 {
-                    Toast.makeText(TestActivity.this, "false", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(TestActivity.this, "Red Green color blindness", Toast.LENGTH_SHORT).show();
 
                 }
                 if(TWO.isChecked())
                 {
-                    Toast.makeText(TestActivity.this, "false", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(TestActivity.this, "Red Green color blindness", Toast.LENGTH_SHORT).show();
 
                 }
                 if(THREE.isChecked())
                 {
-                    Toast.makeText(TestActivity.this, "true", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(TestActivity.this, "Normal Eye Sight", Toast.LENGTH_SHORT).show();
                 }
                 if(FOUR.isChecked())
                {
-                    Toast.makeText(TestActivity.this, "false", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(TestActivity.this, "You are fibbling ", Toast.LENGTH_SHORT).show();
 
                 }
                 Intent intent = new Intent(getApplicationContext(),Test1Activity.class);
